@@ -5,7 +5,7 @@ draft: false
 image: "images/team/barbora-kozlikova.jpg"
 jobtitle: "Organization Committee"
 weburl: "https://www.fi.muni.cz/~xkozlik/"
-weight: 4
+weight: 5
 layout: team
 promoted: true
 ---

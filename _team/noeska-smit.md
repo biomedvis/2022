@@ -5,7 +5,7 @@ draft: false
 image: "images/team/noeska-smit.jpg"
 jobtitle: "Organization Committee"
 weburl: "http://noeskasmit.com/"
-weight: 7
+weight: 8
 layout: team
 promoted: true
 ---

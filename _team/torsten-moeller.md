@@ -5,7 +5,7 @@ draft: false
 image: "images/team/torsten-moller.jpg"
 jobtitle: "Organization Committee"
 weburl: "http://cs.univie.ac.at/torsten.moeller"
-weight: 5
+weight: 6
 layout: team
 promoted: true
 ---
