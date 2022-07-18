@@ -169,7 +169,7 @@ layout: default
 							
 								<!-- generates the lecture slot by merging multiple 15min slots -->
 								<td rowspan="{{lenght}}" class="slot-size-{{lenght}}">
-									<div class="talk-content" style="background-image: url(/images/program/{{speaker.icon}});">
+									<div class="talk-content" style="background-image: url({{ "/images/program/" | relative_url }}{{speaker.icon}});"> 
 										<div class="spaker-info">
 											<div class="title">{{speaker.title}}</div> 
 											<div class="speaker">
@@ -190,9 +190,9 @@ layout: default
 						</tr>
 					{% endfor %}
 				{% endfor %}
-				</table>
+				</table>s
 				<!--<div class="legend">
-					<img src = "/images/program/legend.png" />
+					<img src = "{{ "/images/program/legend.png" | relative_url }}" />
 				</div>-->
 			</div>
 			
@@ -220,7 +220,7 @@ layout: default
 						
 						{% if speaker.bio and speaker.photo %}
 						<div class="details">
-							<img class="photo" src="/images/speakers/{{ speaker.photo }}" atl="{{ speaker.name }}" />
+							<img class="photo" src="{{ "/images/speakers/" | relative_url }}{{ speaker.photo }}" atl="{{ speaker.name }}" />
 							<div class="bio">{{ speaker.bio }}</div>
 						</div>
 						{% endif %}
