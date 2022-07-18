@@ -5,7 +5,7 @@ draft: false
 image: "images/team/yun-wu.jpg"
 jobtitle: "Organization Committee"
 weburl: "http://yun-vis.net/"
-weight: 8
+weight: 9
 layout: team
 promoted: true
 ---

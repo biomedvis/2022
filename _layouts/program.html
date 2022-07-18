@@ -116,7 +116,7 @@ layout: default
 </style>
 
 <!-- assign the list of days in the week -->
-{% assign days = "Monday,Tuesday,Wednesday,Thursday,Friday" | split : "," %}
+{% assign days = "Monday,Tuesday,Wednesday" | split : "," %}
 
 <!-- sorts the program based on date and time -->
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
@@ -132,26 +132,18 @@ layout: default
 					<th class="cet">CEST</div>
 					<th class="day">
 						<span class="weekday">Monday,</span> 
-						<span class="date">17th May 2021</span>
+						<span class="date">19th September 2022</span>
 					</th>
 					<th class="day">
 						<span class="weekday">Tuesday,</span>
-						<span class="date">18th May 2021</span></th>
+						<span class="date">20th September 2022</span></th>
 					<th class="day">
 						<span class="weekday">Wednesday,</span>
-						<span class="date">19th May 2021</span>
-					</th>
-					<th class="day">
-						<span class="weekday">Thursday,</span>
-						<span class="date">20th May 2021</span>
-					</th>
-					<th class="day">
-						<span class="weekday">Friday,</span>
-						<span class="date">21st May 2021</span>
+						<span class="date">21st September 2022</span>
 					</th>
 				</tr>	
 				<!-- generate program based on the 15 minutes intervals -->
-				{% for hour in (14..19) %}
+				{% for hour in (9..18) %}
 					{% for min in (0..3) %}
 						{% assign quater = min | times : 15 %}
 						{% if min == 0 %}
@@ -198,12 +190,12 @@ layout: default
 					{% endfor %}
 				{% endfor %}
 				</table>
-				<div class="legend">
+				<!--<div class="legend">
 					<img src = "/images/program/legend.png" />
-				</div>
+				</div>-->
 			</div>
 			
-			<!-- the detailed program -->
+			<!-- the detailed program 
 			<div class="program" id="speakers">
 			{% for day_in_week in days%}
 				{% assign data = site.data.program | where: "day", day_in_week | sort: "start" %}
@@ -241,6 +233,7 @@ layout: default
 				{% endfor %}
 			{% endfor %}	
 			</div>
+			-->
 		</div>
       </div>
     </div>

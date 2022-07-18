@@ -5,7 +5,7 @@ draft: false
 image: "images/team/renata_raidou.jpg"
 jobtitle: "Organization Committee"
 weburl: "https://www.renataraidou.com"
-weight: 6
+weight: 7
 layout: team
 promoted: true
 ---

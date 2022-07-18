@@ -1,4 +1,4 @@
-baseurl: '2022'
+baseurl: '2022/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Bio+Med+Vis'
