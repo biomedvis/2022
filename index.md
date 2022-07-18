@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 
 We announce the second Summer School on Biological and Medical Visualization: the **Bio+Med+Vis Summer School**!
 
-The Summer School will be held on **September 19--21, 2022** in **Brno, Czech Republic** as a hybrid event. The event preceeds the [EG VCBM conference](https://conferences.eg.org/vcbm2022/), which will be held on September 22--23 in nearby Vienna, Austria, just a short train ride from Brno. Participants can anticipate three days of excellent **talks**, given by experts in Biological and Medical Visualization. 
+The Summer School will be held on **September 19--21, 2022** in **Brno, Czech Republic** as a hybrid event. The event precedes the [EG VCBM conference](https://conferences.eg.org/vcbm2022/), which will be held on September 22--23 in nearby Vienna, Austria, just a short train ride from Brno. Participants can anticipate three days of excellent **talks**, given by experts in Biological and Medical Visualization. 
 <!--The program is enriched by **mentoring sessions**, focusing on Ph.D. studies and visualization design, practical **tutorials** on visualization tools and libraries, and invited talks by experts from **clinical practice and industry**.-->
 
 The Summer School is primarily targeting M.Sc. and Ph.D. students in Computer Science, but anyone who wants to learn more about principles and challenges in visualization for Life Sciences applications is welcome! No preliminary knowledge of Bio+Medical visualization is necessary.
