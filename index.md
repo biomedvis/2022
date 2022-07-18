@@ -10,14 +10,14 @@ intro_image_hide_on_mobile: true
 
 We announce the second Summer School on Biological and Medical Visualization: the **Bio+Med+Vis Summer School**!
 
-The Summer School will be held on **September 19--21, 2022** in **Brno, Czech Republic** as a hybrid event. The event preceeds the [EG VCBM conference](https://conferences.eg.org/vcbm2022/), which will be held on September 22--23 in nearby Vienna, Austria, just 1,5 hours from Brno. Participants can anticipate three days of excellent **talks**, given by experts in Biological and Medical Visualization. 
+The Summer School will be held on **September 19--21, 2022** in **Brno, Czech Republic** as a hybrid event. The event preceeds the [EG VCBM conference](https://conferences.eg.org/vcbm2022/), which will be held on September 22--23 in nearby Vienna, Austria, just a short train ride from Brno. Participants can anticipate three days of excellent **talks**, given by experts in Biological and Medical Visualization. 
 <!--The program is enriched by **mentoring sessions**, focusing on Ph.D. studies and visualization design, practical **tutorials** on visualization tools and libraries, and invited talks by experts from **clinical practice and industry**.-->
 
 The Summer School is primarily targeting M.Sc. and Ph.D. students in Computer Science, but anyone who wants to learn more about principles and challenges in visualization for Life Sciences applications is welcome! No preliminary knowledge of Bio+Medical visualization is necessary.
 
 The registration for the Summer School will be **free of charge** and it will provide access to an educational platform, where all materials will be available afterwards. To join us, just fill in the [registration form](https://skjemaker.app.uib.no/view.php?id=13063619) before **August 15, 2022**. 
 
-We are very looking forward to seeing you at the Bio+Med+Vis Summer School! 
+We are looking forward to seeing you at the Bio+Med+Vis Summer School! 
 
 [The Organization Team](https://biomedvis.github.io/team/): 
 Johanna Beyer, Jan Byška, Katarína Furmanová, Ingrid Hotz, Barbora Kozlíková, Torsten Möller, Renata Raidou, Noeska Smit, and Hsiang-Yun Wu

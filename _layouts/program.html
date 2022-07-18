@@ -11,7 +11,7 @@ layout: default
 	width:30px;
 }
 .content table th.day{
-	width:20%;
+	width:30%;
 }
 .content table th{
 	background:#000;
@@ -124,6 +124,7 @@ layout: default
     <div class="col-12">
       <div class="service service-single">
         <h1 class="title">{{page.title}}</h1>
+		Preliminary program outline.
         <div class="content">	
 			{{content}}
 			<div class="table-responsive">
@@ -143,7 +144,7 @@ layout: default
 					</th>
 				</tr>	
 				<!-- generate program based on the 15 minutes intervals -->
-				{% for hour in (9..18) %}
+				{% for hour in (9..17) %}
 					{% for min in (0..3) %}
 						{% assign quater = min | times : 15 %}
 						{% if min == 0 %}
