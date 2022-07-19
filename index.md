@@ -22,6 +22,7 @@ We are looking forward to seeing you at the Bio+Med+Vis Summer School!
 [The Organization Team](https://biomedvis.github.io/team/): 
 Johanna Beyer, Jan Byška, Katarína Furmanová, Ingrid Hotz, Barbora Kozlíková, Torsten Möller, Renata Raidou, Noeska Smit, and Hsiang-Yun Wu
 
+<!--
 This event is endorsed by:
 
 <a href="http://biovis.net/" target="_blank">
@@ -33,3 +34,4 @@ This event is endorsed by:
 <a href="http://www.mmiv.no/" target="_blank">
 ![MMIV](/2022/images/endorsement/mmivs.png)
 </a>
+-->
