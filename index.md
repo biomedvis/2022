@@ -22,6 +22,13 @@ We are looking forward to seeing you at the Bio+Med+Vis Summer School!
 [The Organization Team](https://biomedvis.github.io/team/): 
 Johanna Beyer, Jan Byška, Katarína Furmanová, Ingrid Hotz, Barbora Kozlíková, Torsten Möller, Renata Raidou, Noeska Smit, and Hsiang-Yun Wu
 
+
+
+This event is supported by:
+<a href="https://www.dzs.cz/en/program/aktion-austria-czech-republic" target="_blank">
+![AKTION](/2022/images/endorsement/logo-aktion.jpg)
+</a>
+
 <!--
 This event is endorsed by:
 
