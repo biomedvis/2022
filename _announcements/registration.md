@@ -5,7 +5,7 @@ featured: true
 school: true
 weight: 1
 layout: announcement
-description: Please register for the Summer School, it is for free. The registration is open until 15th of August.
+description: Please register for the Summer School, it is for free. The registration for in-person attendance is open until 15th of August.
 link: https://skjemaker.app.uib.no/view.php?id=13063619
 ---
 
