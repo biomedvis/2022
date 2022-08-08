@@ -28,6 +28,9 @@ This event is supported by:
 <a href="https://www.dzs.cz/en/program/aktion-austria-czech-republic" target="_blank">
 ![AKTION](/2022/images/endorsement/logo-aktion.jpg)
 </a>
+<a href="http://biovis.net/" target="_blank">
+![BioVis](/2022/images/endorsement/biovis.png)
+</a>
 
 <!--
 This event is endorsed by:
