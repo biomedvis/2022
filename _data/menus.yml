@@ -11,9 +11,12 @@ main:
   - name: "Registration"
     url: "https://skjemaker.app.uib.no/view.php?id=13063619"
     weight: 4
+  - name: "Venue"
+    url: "/location/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"

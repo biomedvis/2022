@@ -1,0 +1,31 @@
+---
+title: Venue
+layout: home
+intro_image: "images/illustrations/reading.svg"
+---
+
+# Venue
+
+The summer school will be held at the Faculty of Informatics, Masaryk University. The Faculty of Informatics (FI) was founded in 1994 as the first Faculty of Informatics in the Czech Republic. Today, with a steady increase of interest to study, it provides Computer Science education at all levels of university studies for two thousand students in Czech and English. In addition to quality education, there are almost twenty laboratories where researchers and students perform leading-edge research, often in cooperation with companies located in the science and technology park directly in the FI area.
+
+**Address**<br/>
+Botanická 68a <br/>
+602 00 Brno <br/>
+Czech Republic <br/>
+[map](https://goo.gl/maps/pWXUjfhVeTku7cbN9)
+
+
+**Public Transport**<br/>
+Brno is served by a dense network of public transportation services, including buses, trolleys and trams, that covers the entire city. You can find timetables and journeys online [here](http://idsjmk.idos.cz/brno/spojeni/).
+
+The nearest stops to Faculty of Informatics are 'Botanická' (trolley line 32) and 'Hrnčířská' (tram lines 1 and 6). Paper tickets for public transport can be bought at yellow ticket machines at most stops. You can also buy tickets directly in the tram or troley via [contactless payment](https://pipniajed.cz/en.html).
+
+
+# Brno City
+
+Brno ( /ˈbɜːrnoʊ/ in English) is the second largest city of the Czech Republic and it is the the county city of the beautiful South Moravia region. With around 400 000 inhabitants, Brno is still a rather small city with a welcoming, cosmopolitan atmosphere. Moreover, Brno is a very [student-friendly city](https://www.em.muni.cz/en/student/11992-10-reasons-why-brno-is-the-best-city-for-students). With students forming around 20% of its population, the city has moulded itself to accomodate the student life and there are always things to do and places to go for young people.  
+
+The city also offers dozens of historical sights to see. The cityscape is dominated by the Špilberk castle (literally across the street from conference venue) and the Cathedral of Saints Peter and Paul. Another architectural monument is the functionalist Villa Tugendhat, which has been included on the UNESCO list of World Heritage Sites. You can visit also the Basilica of the Assumption of Our Lady and the neighboring Augistinian Abbey, where the founder of genetics – Gregor J. Mendel – was living and working on his research.
+
+For more information about Brno and sightseeing tips, see the website of the [touristic information center](https://www.gotobrno.cz/en/) or check out this [Brno USE-IT map](https://www.use-it.travel/cities/detail/brno/).
+
