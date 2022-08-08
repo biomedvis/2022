@@ -209,12 +209,8 @@ layout: default
 					{% if forloop.first %}
 					<div class="day">{{ day_in_week }}</div>
 					{% endif %}
-					
-					{% if speaker.name == "Noeska Smit" %}
-					<div class="speaker" id="{{speaker.name}}_{{speaker.day | downcase}}">
-					{% else %}
+					{% if speaker.name != nil or speaker.title != nil %}
 					<div class="speaker" id="{{speaker.name}}">
-                                        {% endif %}
 						<div class="first-line">
 							<span class="slot">{{ speaker.start }} - {{ speaker.end }}</span>
 							<span class="title">{{ speaker.title }}</span><br/>
@@ -236,6 +232,7 @@ layout: default
 						</div>
 						{% endif %}
 					</div> 
+					{% endif %}	
 				{% endfor %}
 			{% endfor %}	
 			</div>
