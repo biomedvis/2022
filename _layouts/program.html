@@ -145,12 +145,17 @@ layout: default
 				</tr>	
 				<!-- generate program based on the 15 minutes intervals -->
 				{% for hour in (9..17) %}
+					{% if hour < 10 %}
+						{% assign hour_fixed = '0' | append : hour %}
+					{% else %}
+						{% assign hour_fixed = hour %}
+					{% endif %}
 					{% for min in (0..3) %}
 						{% assign quater = min | times : 15 %}
 						{% if min == 0 %}
 							{% assign quater = '00' %}
 						{% endif %}
-						{% assign slot = hour | append: ':' | append : quater %}
+						{% assign slot = hour_fixed | append: ':' | append : quater %}
 						
 						<!-- creates each line in the program with 15min intervals -->
 						<tr>
