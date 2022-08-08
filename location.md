@@ -38,3 +38,6 @@ The city also offers dozens of historical sights to see. The cityscape is domina
 
 For more information about Brno and sightseeing tips, see the website of the [touristic information center](https://www.gotobrno.cz/en/) or check out this [Brno USE-IT map](https://www.use-it.travel/cities/detail/brno/).
 
+**Travelling between Brno and Vienna**<br/>
+If you are coming to Brno from Vienna or are traveling to Vienna afterward, there are several possibilities of travel between the two cities. Trains are the fastest way (~1,5 hours), but several companies offer also direct coach rides (~2 hours). We recommend checking out [RegioJet](https://regiojet.cz/) (trains and coaches), [FlixBus](https://global.flixbus.com/) (coaches) or national railway companies [ČD](https://www.cd.cz/en/default.htm)/[ÖBB](https://www.oebb.at/en/) (they tend to be slightly more expensive). 
+
