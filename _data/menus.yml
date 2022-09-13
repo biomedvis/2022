@@ -8,21 +8,17 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "Registration"
-    weight: 4
   - name: "Venue"
     url: "/location/"
-    weight: 5
+    weight: 4
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 5
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Registration"
-    weight: 2  
   - name: "Contact"
     url: "/contact/"
-    weight: 3
+    weight: 2
