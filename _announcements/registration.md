@@ -5,8 +5,8 @@ featured: true
 school: true
 weight: 1
 layout: announcement
-description: Registration is now closed.
+description: Registration is now closed, but if you still want to attend the school online, please let us know at katarina.furmanova[at]gmail[dot]com.
 ---
 
-Registration is now closed, but if you still want to attend the school online, please let us know at katarina.furmanova@gmail.com.
+Registration is now closed, but if you still want to attend the school online, please let us know at katarina.furmanova[at]gmail[dot]com.
 
