@@ -8,5 +8,5 @@ layout: announcement
 description: Registration is now closed.
 ---
 
-Registration is now closed.
+Registration is now closed, but if you still want to attend the school online, please let us know at katarina.furmanova@gmail.com.
 
