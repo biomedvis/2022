@@ -15,12 +15,15 @@ The Summer School will be held on **September 19--21, 2022** in **Brno, Czech Re
 
 The Summer School is primarily targeting M.Sc. and Ph.D. students in Computer Science, but anyone who wants to learn more about principles and challenges in visualization for Life Sciences applications is welcome! No preliminary knowledge of Bio+Medical visualization is necessary.
 
-The registration for the Summer School will be **free of charge** and it will provide access to an educational platform, where all materials will be available afterwards. If you plan to attend in person, please register before **September 1, 2022**. 
+The registration for the Summer School will be **free of charge** and it will provide access to an educational platform, where all materials will be available afterwards. 
 
 We are looking forward to seeing you at the Bio+Med+Vis Summer School! 
 
-[The Organization Team](https://biomedvis.github.io/team/): 
-Johanna Beyer, Jan Byška, Katarína Furmanová, Ingrid Hotz, Barbora Kozlíková, Torsten Möller, Renata Raidou, Noeska Smit, and Hsiang-Yun Wu
+[The Organization Team](https://biomedvis.github.io/team/) (local): 
+Katarína Furmanová, Jan Byška, Barbora Kozlíková, Renata Raidou
+
+[The Organization Team](https://biomedvis.github.io/team/) (support): 
+Jonanna Beyer, Ingrid Hotz, Torsten Möller,  Noeska Smit, and Hsiang-Yun Wu
 
 
 
